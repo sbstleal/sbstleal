@@ -1,5 +1,5 @@
 
-<h2>Hi, I'm Sebastião Leal! </h2>
+<h2>Hi, I'm Sebastião! </h2>
 
 ![](https://komarev.com/ghpvc/?username=sbstleal&color=006bed)
 
