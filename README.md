@@ -19,6 +19,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   <br/>
   ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
