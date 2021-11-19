@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Systems Analyst at <a href="https://www.unipe.edu.br/">Unipê</a>.
-- 💼 &nbsp; Working as a back office attendant at <a href="https://www.aec.com.br/">AeC</a>.
+- 💼 &nbsp; Working as a Full Stack Trainee at <a href="https://www.indracompany.com/pt-br/minsait/">AeC</a>.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
