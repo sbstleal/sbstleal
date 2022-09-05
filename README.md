@@ -48,7 +48,7 @@
 **Office Tools**
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white)
 
 <br/>
 
