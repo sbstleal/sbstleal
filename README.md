@@ -40,6 +40,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=white)
   ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+  ![Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=Rider&logoColor=white)
 
 <br/>
 
