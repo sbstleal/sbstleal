@@ -16,19 +16,25 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
-  <br/>
-  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  
+  ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=sass)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=C%23)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=Java)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
-  <br/>
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
+  
+**Frameworks and Libraries**
+
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
+
+
   
 **DevOps**
 
