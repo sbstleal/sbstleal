@@ -23,16 +23,16 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=SQLite)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=PostgreSQL)
+  ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server&logoColor=sqlserver)
   
 **Frameworks and Libraries**
 
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=Angular)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=Bootstrap)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=.NET)
 
 
   
@@ -41,7 +41,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=Heroku)
 
 **Development Tools**
 
@@ -49,13 +49,13 @@
   ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=6959CD)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=white)
   <br/>
-  ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
-  ![Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=Rider&logoColor=white)
+  ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=IntelliJ_IDEA)
+  ![Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=Rider&logoColor=Rider)
 
 **Office Tools**
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=white)
+![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=Microsoft_Office)
+![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=Miro)
 
 <br/>
 
