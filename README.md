@@ -26,22 +26,29 @@
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
   <br/>
+  ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
   
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=white)
 
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=6959CD)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  <br/>
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse&logoColor=white)
+  <br/>
   ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
   ![Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=Rider&logoColor=white)
+
+**Office Tools**
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=white)
 
 <br/>
 
