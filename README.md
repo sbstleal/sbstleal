@@ -16,13 +16,15 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  <br/>
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)  
   ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=sass)
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=C%23)
+  <br/>
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=Java)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  <br/>
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=SQLite)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=PostgreSQL)
   ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server&logoColor=sqlserver)
@@ -32,6 +34,7 @@
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=Angular)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=Bootstrap)
+  <br/>
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=.NET)
 
 
@@ -41,6 +44,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  <br/>
   ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=Heroku)
 
 **Development Tools**
