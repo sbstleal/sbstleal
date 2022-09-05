@@ -17,9 +17,10 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
   <br/>
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   <br/>
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -48,7 +49,7 @@
 **Office Tools**
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=white)
 
 <br/>
 
