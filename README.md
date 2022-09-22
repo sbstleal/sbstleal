@@ -46,7 +46,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   <br/>
   ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=Heroku)
-  ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=heroku&logoColor=Netlify)
+  ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify&logoColor=Netlify)
 
 **Development Tools**
 
