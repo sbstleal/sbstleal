@@ -58,6 +58,7 @@
   ![Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=Rider&logoColor=Rider)
 
 **Office Tools**
+
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=Microsoft_Office)
 ![Miro](https://img.shields.io/badge/Miro-333333?style=flat&logo=Miro&logoColor=Miro)
