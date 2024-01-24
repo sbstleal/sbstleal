@@ -6,8 +6,6 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying technology in Internet Systems at <a href="https://www.iesp.edu.br/">UNIESP</a>.
-- 💼 &nbsp; Working as a Full Stack Trainee at <a href="https://www.indracompany.com/pt-br/minsait/">Minsalt | Indra Company</a>.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
