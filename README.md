@@ -79,17 +79,17 @@
 
 <p align="center">
   <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=sbstleal&show_icons=true&theme=dracula&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=sbstleal&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
   <img height="140em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbstleal&layout=compact&theme=dracula&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbstleal&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
   <img height="160em"
-       src="https://streak-stats.demolab.com?user=sbstleal&theme=dracula&hide_border=true" />
+       src="https://streak-stats.demolab.com?user=sbstleal&theme=dracula&hide_border=true&v=1" />
 </p>
 
 ---
