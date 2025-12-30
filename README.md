@@ -72,5 +72,5 @@
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: sbstleal](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/)
-[![Gmail Badge](https://img.shields.io/badge/-sebastiaodeoleal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebastiaodeoleal@gmail.com)](mailto:sebastiaodeoleal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sebastiaodeoleal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebastiaodeoleal@gmail.com)](mailto:contato.sltechsolutions@gmail.com)
 [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=follow&style=social)](https://github.com/sbstleal)
