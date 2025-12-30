@@ -56,6 +56,8 @@
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/GCP-333333?style=flat&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
@@ -76,7 +78,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sbstleal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=sbstleal&show_icons=true&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbstleal&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160em"
+       src="https://streak-stats.demolab.com?user=sbstleal&theme=dracula&hide_border=true" />
 </p>
 
 ---
